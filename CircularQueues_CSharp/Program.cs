@@ -113,11 +113,12 @@ namespace CircularQueues_CSharp
                 Console.WriteLine();
             }
         }
-    }
-    internal class Program
-    {
         static void Main(string[] args)
         {
+            Queues q = new Queues();
+            char ch;
+            while (true)
+            { }
         }
     }
 }
